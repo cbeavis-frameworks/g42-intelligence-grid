@@ -46,9 +46,9 @@ app.get("/data", (req, res) => {
 app.get("/files", (req, res) => {
   // List all files in the root directory and list them to send back in the response
 
-  const files = fs.readdirSync("./");
+  const files = fs.readdirSync(__dirname);
 
-  res.sendFile(JSON.stringify(files));
+  res.send(JSON.stringify(files));
 });
 
 // Endpoint to get node positions
