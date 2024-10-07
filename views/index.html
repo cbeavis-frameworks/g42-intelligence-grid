@@ -41,21 +41,31 @@
         });
       }
 
-      // Fetch nodes and edges data and load the background image
+      // Fetch nodes and edges data, load background image, and fetch stored positions
       Promise.all([
         fetch("/data").then((response) => response.json()),
         loadBackgroundImage("/citymap.png"), // Update the path to your image
+        fetch("/positions")
+          .then((response) => response.json())
+          .catch(() => ({})),
       ])
-        .then(([data]) => {
+        .then(([data, _, storedPositions]) => {
           nodes = new vis.DataSet(data.nodes);
           edges = new vis.DataSet(data.edges);
 
-          // Optionally, set initial positions for nodes
+          // Set initial positions for nodes
           const imgWidth = backgroundImage.width;
           const imgHeight = backgroundImage.height;
           nodes.forEach(function (node) {
-            node.x = Math.random() * imgWidth - imgWidth / 2;
-            node.y = Math.random() * imgHeight - imgHeight / 2;
+            if (storedPositions[node.id]) {
+              // Use stored position
+              node.x = storedPositions[node.id].x;
+              node.y = storedPositions[node.id].y;
+            } else {
+              // Assign random position if no stored position
+              node.x = Math.random() * imgWidth - imgWidth / 2;
+              node.y = Math.random() * imgHeight - imgHeight / 2;
+            }
           });
 
           const container = document.getElementById("network");
@@ -98,6 +108,8 @@
           network.on("dragEnd", function (params) {
             if (params.nodes.length > 0) {
               colorEdgesByLength();
+              // Save new positions to the server
+              saveNodePositions();
             }
           });
 
@@ -135,6 +147,27 @@
             const green = Math.round(255 * (1 - value));
             const blue = 0;
             return `rgb(${red},${green},${blue})`;
+          }
+
+          // Function to save node positions to the server
+          function saveNodePositions() {
+            const positions = network.getPositions();
+            // Send positions to the server
+            fetch("/positions", {
+              method: "POST",
+              headers: {
+                "Content-Type": "application/json",
+              },
+              body: JSON.stringify(positions),
+            })
+              .then((response) => {
+                if (!response.ok) {
+                  console.error("Failed to save node positions");
+                }
+              })
+              .catch((error) => {
+                console.error("Error saving node positions:", error);
+              });
           }
 
           // Add event listeners
