@@ -45,7 +45,7 @@
       // Fetch nodes and edges data, load background image, and fetch stored positions
       Promise.all([
         fetch("/data").then((response) => response.json()),
-        loadBackgroundImage("assets/citymap.png"), // Update the path to your image
+        loadBackgroundImage("citymap.png"), // Update the path to your image
         fetch("/positions")
           .then((response) => response.json())
           .catch(() => ({})),
