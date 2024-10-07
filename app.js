@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 
 // Initialize Express application
 const app = express();
-app.set("port", 8090);
+app.set("port", 8080);
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, "public")));
