@@ -4,7 +4,8 @@ import path from "path";
 import fs from "fs";
 import { fileURLToPath } from "url";
 
-const __dirname = path.resolve();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Initialize Express application
 const app = express();
