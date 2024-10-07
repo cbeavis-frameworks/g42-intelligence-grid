@@ -21,7 +21,8 @@ app.get("/", (req, res) => {
 // Endpoint to serve the data
 app.get("/data", (req, res) => {
   // Read the connections data
-  fs.readFile("./data/connections.json", "utf8", (err, data) => {
+  const dataPath = path.join(__dirname, "data", "connections.json");
+  fs.readFile(dataPath, "utf8", (err, data) => {
     if (err) {
       console.error("Error reading connections.json:", err);
       res.status(500).send("Internal Server Error");
