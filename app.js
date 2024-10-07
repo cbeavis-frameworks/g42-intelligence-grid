@@ -43,6 +43,10 @@ app.get("/data", (req, res) => {
   });
 });
 
+app.get("/citymap.png", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "citymap.png"));
+});
+
 // Endpoint to get node positions
 app.get("/positions", (req, res) => {
   fs.readFile("./data/positions.json", "utf8", (err, data) => {
