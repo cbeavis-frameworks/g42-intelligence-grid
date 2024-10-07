@@ -1,0 +1,6 @@
+{
+  "ignore": ["./data/*"],
+  "events": {
+    "start": "clear"
+  }
+}

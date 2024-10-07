@@ -1,0 +1,680 @@
+{
+  "surface": [
+    {
+      "title": "Airport",
+      "description": "",
+      "count": 1
+    },
+    {
+      "title": "Arena (Space 42)",
+      "description": "",
+      "count": 1
+    },
+    {
+      "title": "Autonomous vehicles",
+      "description": "G42 autonomous vehicles are characterized by high standards of safety and security, which include cameras and sensors that forecast conditions of the road and maintain the vehicle’s connection with its external surroundings to avoid collision with any object.",
+      "count": 2
+    },
+    {
+      "title": "Police station",
+      "description": "",
+      "count": 3
+    },
+    {
+      "title": "Car park",
+      "description": "",
+      "count": 1
+    },
+    {
+      "title": "Clinic",
+      "description": "With over 20,000 employees and more than 450 facilities in 26 countries, M42 operates a vast network of advanced, integrated healthcare facilities. By combining cutting-edge health technologies with state-of-the-art healthcare facilities, M42 delivers world-class health solutions, services, and care. Driven by a patient-first philosophy, M42 offers a comprehensive range of healthcare services, from primary care to specialized treatments, utilizing personalized medicine and advanced healthtech solutions to provide the most effective and efficient care possible.",
+      "count": 4
+    },
+    {
+      "title": "Data center",
+      "description": "As data storage and cloud infrastructure demand continues to rise globally, G42’s data centers are enabling digital transformation, propelling public and private organizations into a new era of intelligence, resilience, flexibility and commerciality.",
+      "count": 23
+    },
+    {
+      "title": "Edge computing & Sensors",
+      "description": "We seamlessly connect people, places and things through the use of smart sensors and mixed reality devices. Our mission is to craft technology that amplifies rather than replaces human skills, bridging the gap between possibility and reality.",
+      "count": 3
+    },
+    {
+      "title": "F1 Race Track ",
+      "description": "Our technologies bring a comprehensive home-grown suite of analytics, computer vision, and artificial intelligence to teams, leagues, broadcasters and the general public. ",
+      "count": 1
+    },
+    {
+      "title": "Factories and Plants",
+      "description": "",
+      "count": 3
+    },
+    {
+      "title": "Farm",
+      "description": "",
+      "count": 1
+    },
+    {
+      "title": "Financial institution",
+      "description": "Our expertise helps equip regulatory authorities and institutions with the tools to identify and address financial anomalies, fraud, and risks using big data analytics powered by GenAI. Our solutions ensure integrity and security in financial transactions and operations.",
+      "count": 2
+    },
+    {
+      "title": "Fire station",
+      "description": "",
+      "count": 2
+    },
+    {
+      "title": "Government building",
+      "description": "G42 sits at the forefront of cutting-edge urban planning, mobility and public safety technical solutions through our combined use of AI, Cloud and IoT. Our aim is to help build smarter, greener and safer cities.",
+      "count": 7
+    },
+    {
+      "title": "High school",
+      "description": "We help to transform educational outcomes by equipping authorities and educational institutions with data-driven tools which enhance student learning successes, identify student talents, and optimize learnings programs.",
+      "count": 1
+    },
+    {
+      "title": "Hospital",
+      "description": "At G42, we are harnessing data and advanced medical technologies to transform the traditional healthcare ecosystem. We are at the forefront of developing multiple innovative programs across Diagnostics, Digital Health, Therapeutics and Advanced Omics.",
+      "count": 4
+    },
+    {
+      "title": "Laboratory",
+      "description": "Our team of world-class doctors, scientists and researchers are focused on leveraging our robust R&D capabilities encompassing genomics, imaging and diagnostics and digitization programs, to support the health of future generations by unlocking the potential of personalised and preventative care.",
+      "count": 4
+    },
+    {
+      "title": "Office blocks",
+      "description": "",
+      "count": 5
+    },
+    {
+      "title": "Oil rig",
+      "description": "We enable companies in the Oil and Gas sector and beyond to utilize data-driven analysis, computation, and modeling to power better operational decision-making and evolve towards a sustainable future.",
+      "count": 3
+    },
+    {
+      "title": "Power station",
+      "description": "We understand the Energy sector’s dilemma of balancing growth with HSE, sustainability, and other goals. Our solutions help clients perform better, protect teams and equipment, keep operations sustainable, and grow rapidly.",
+      "count": 1
+    },
+    {
+      "title": "Sport stadium (football)",
+      "description": "We are building technologies and solutions that will reshape the world of sports and bring it into a new era. Our cutting-edge AI and Analytics solutions serve the athletes on the field, the fans watching off the field, and the leaders running the industry.",
+      "count": 1
+    },
+    {
+      "title": "Subway",
+      "description": "We help end users meet their mobility and transport needs, solving the inconvenient parts of individual journeys. Using the swift exchange of geospatial information, we unleash real-time data gathering, analysis, prediction, and data-driven decisions.",
+      "count": 1
+    },
+    {
+      "title": "Supercomputer",
+      "description": "We are committed to leveraging our cloud computing capabilities to unleash the full potential of AI and maximize human potential and prosperity. We aim to work with the best technologies and the best partners to deliver value to every market in the world.",
+      "count": 3
+    },
+    {
+      "title": "University",
+      "description": "We help to transform educational outcomes by equipping authorities and educational institutions with data-driven tools which enhance student learning successes, identify student talents, and optimize learnings programs.",
+      "count": 4
+    },
+    {
+      "title": "Weather station",
+      "description": "",
+      "count": 3
+    },
+    {
+      "title": "Wind farm",
+      "description": "",
+      "count": 1
+    },
+    {
+      "title": "Warehouse",
+      "description": "",
+      "count": 1
+    },
+    {
+      "title": "Sea vessels",
+      "description": "We provide AI-powered SpaceTech that seamlessly integrates satellite communications, geospatial insights, and artificial intelligence capabilities to monitor environmental factors and maritime traffic for improved safety.",
+      "count": 4
+    },
+    {
+      "title": "Water treatment ",
+      "description": "",
+      "count": 1
+    },
+    {
+      "title": "Public park",
+      "description": "",
+      "count": 1
+    },
+    {
+      "title": "Municipality",
+      "description": "As a leader in artificial intelligence and cloud computing, we are obsessed about exploring and harnessing the power of AI as a force for good, using it to improve every aspect of our community life as citizens, from e-government services to safety and security.",
+      "count": 4
+    },
+    {
+      "title": "Refuse collection depot",
+      "description": "",
+      "count": 1
+    }
+  ],
+  "cloud": [
+    {
+      "title": "AI Cloud",
+      "description": "AI cloud offers cutting-edge High-Performance Computing (HPC) and AI solution that delivers unparalleled computing power for AI workloads. Leveraging partnerships with Cerebras and NVIDIA, it offers exaflop-scale AI training capabilities and advanced data processing. This versatile offering ensures data sovereignty, provides seamless scalability, and supports diverse use cases from LLM training to scientific computing, empowering organizations to tackle complex AI challenges with unprecedented efficiency.",
+      "count": 23
+    },
+    {
+      "title": "Sovereign Public Cloud",
+      "description": "Core42's Sovereign Public Cloud offering is tailored to meet the growing demand for sovereignty and security controls within highly regulated industries in the UAE that want to benefit the scalability and innovation that a Hyperscaler offers. This offering is built on Microsoft Azure Public Cloud and leverages the Insight tool to enforce, manage, and monitor compliance with national and sectorial policies as mandated by the UAE Cybersecurity Council and various sector regulators.",
+      "count": 23
+    },
+    {
+      "title": "Signature Private Cloud",
+      "description": "Core42's Signature Private Cloud delivers hyperscaler capabilities in UAE-based data centers with enhanced security, controlled connectivity, and guaranteed data sovereignty. It offers customizable infrastructure and services, ensuring regulatory compliance while providing the flexibility and performance needed for demanding private cloud requirements.",
+      "count": 23
+    },
+    {
+      "title": "Transportation Cloud",
+      "description": "Transportation Cloud offers a comprehensive suite of cloud-based services tailored for public transportation operations, including computing, storage, networking, analytics, databases, and cloud security. It supports a range of applications such as mobility digital twins, Robotaxi, Robominibus, and the TXAI mobility app, delivering scalable and secure solutions for modern transportation needs. This enables enhanced efficiency, data-driven insights, and seamless integration across various mobility platforms.",
+      "count": 1
+    },
+    {
+      "title": "Cybersecurity",
+      "description": "Our cybersecurity platform offers next-generation Security Operations Center (SOC) to deliver integrated cyber defence services, perimeter defences to protect organizations networks, endpoints, applications and data, and advisory and consultancy services to meet the ever changing cybersecurity needs.",
+      "count": 20
+    }
+  ],
+  "apps": [
+    {
+      "title": "Cyber Consulting Services",
+      "description": "Achieve your business objectives while managing cyber risks with our market-leading advisory services. We offer Cyber Strategy, Cyber Governance Services, Cyber Academy, Cyber Assessments Services, GRC and Privacy Technical Enablement",
+      "count": 1
+    },
+    {
+      "title": "Cloud Security Services",
+      "description": "We help to us secure your cloud journey so that you can focus on growing your business. Our cloud security services include Cloud Security Advisory and Governance, Cloud Infrastructure As Code, Cloud Security Design & Implementation, 360° Cloud Security Assessments",
+      "count": 1
+    },
+    {
+      "title": "Cyber Solutions & Delivery",
+      "description": "We offer a full cycle of security solutions – from design and build to operate and optimize. Our services span the lifecycle of security solutions from plan and build, to operate and optimize. (Cyber Solutions, Cyber Technology Assurance, Cyber Engineering)",
+      "count": 1
+    },
+    {
+      "title": "Cyber Resilience Services",
+      "description": "We help to transform your security posture with our managed security readiness and response services, with frameworks, technology, and expertise proven in the UAE and beyond. These services include managed eXtended Detection & Response,  Security Operations Center Services Advisory; Threat Intelligence & Digital Risk Protection; On-Prem & Hybrid SOC Operations; Threat Hunting, Response & Enhanced Active Defense; Intelligent Threat Detection ITD ",
+      "count": 1
+    },
+    {
+      "title": "Cyber Test And Evaluation",
+      "description": "We can help you to uncover risks to your applications and people with real-world cybersecurity assessments. These services include Application Security Assurance; Compliance and Security Assessments; Red Teaming; Vulnerability Assessments and Penetration Testing; Threat Simulations and Development",
+      "count": 1
+    },
+    {
+      "title": "Physical Security Services",
+      "description": "Protect your business with best-in-class physical security architecture and engineering services tailored to your unique needs. We offer Physical Security Assessment and Gaps Analysis; Customized Integrated Cyber-Physical Security Solutions; Command, Control, Communications, Computers and Intelligence (C4i); Artificial Intelligence in Physical Security Systems",
+      "count": 1
+    },
+    {
+      "title": "Smart Power Distribution",
+      "description": "Leveraging predictive analytics, we ensure optimal power usage, reliability, and intelligent energy management across our facilities. We are committed to sustainability with integrated renewable energy sources, like our dedicated 7MWp solar plant, reducing our carbon footprint.",
+      "count": 1
+    },
+    {
+      "title": "Smart Data Center Digital Twin",
+      "description": "Smart Data Center Digital Twin is an advanced platform tailored for the planning and design of future data center campuses, and enhancing the management and operation of existing facilities. With sophisticated 3D visualization capabilities, it significantly improves planning accuracy, facilitating superior campus design and development prospects. By integrating Building Information Modeling (BIM) and Internet of Things (IoT) sensor, the platform creates a comprehensive digital representation of the data center, enabling effective monitoring and management of assets and facilities. This integration empowers decision-makers to optimize operations, streamline management, and ensure the long-term sustainability of data center infrastructures.",
+      "count": 1
+    },
+    {
+      "title": "SCIF ",
+      "description": "Sensitive Compartmented Information Facility is a secure area or room used to store, process, and discuss sensitive compartmented information (SCI). Designed to protect classified information from unauthorized access and eavesdropping.",
+      "count": 1
+    },
+    {
+      "title": "Video Surveillance",
+      "description": "A multi-disciplinary approach, drawing on expertise in cybersecurity, network engineering, systems analysis and physical security ensuring that vulnerabilities are minimized and systems are resilient to digital and physical attacks. A round the clock delivery and monitoring of mission critical facilities. We are design-built for high availability",
+      "count": 1
+    },
+    {
+      "title": "xThreat",
+      "description": "Border Protection xThreat platform developement is dedicated to enhance National Guard capabilities in protection of UAE Maritime borderline. The  xThreat platform collects and ingests the data from heterogeneous data sources, such as land and seaborne radars (including Over the Horizon Radar);  land, seaborne and airborne optical sensors; AIS and e-Passport data; commercial information sources and satellite imagery. It applies set of AI Models to detect anomalies, and performs automatic assessment of potential threats, based on current and historical information related to the threat. After assessment, the xThreat platform provides suggestions for optimal National Guard forces allocation to intercept the threat. The xThreat capabilities and  information can be securely integrated into external  systems.  The xThreat platform elevates National Guard capabilities in situational awareness and threats management, effectively improving the UAE board protection and security.",
+      "count": 1
+    },
+    {
+      "title": "Manpower & Resource Planning",
+      "description": "Manpower & Resource Planning is a comprehensive human resource management platform designed to streamline organizational HR processes. It centralizes employee data, enabling managers to easily access and manage information such as training status, promotion paths, and personal details. The platform supports intelligent analysis, offering insights into recruitment strategies, training effectiveness, promotion and retirement planning, and organizational performance. This empowers managers to make informed decisions, optimize resource allocation, and enhance overall workforce management efficiency.",
+      "count": 1
+    },
+    {
+      "title": "Perimeter Intrusion Detection",
+      "description": "The solution provides advanced perimeter intrusion detection designed to secure critical infrastructure and sensitive sites. The system integrates fence-mounted sensors, buried cables, and video analytics to detect and respond to unauthorized access attempts in real-time. With a focus on reliability, scalability, and seamless integration with security platforms, the solution enhances situational awareness and threat detection, ensuring comprehensive perimeter protection for industries such as transportation, energy, and government facilities.",
+      "count": 1
+    },
+    {
+      "title": "Smart School Digital Twin",
+      "description": "Smart School Digital Twin is an advanced operations management platform designed specifically for educational institutions, providing comprehensive building, asset, and operational management capabilities. By integrating high-quality geospatial data, including base maps, vector data, and detailed 3D models, it offers school managers an interactive, realistic view of their facilities. This platform enhances management processes, enabling improved operational efficiency and facilitating better decision-making to create a more conducive learning environment. ",
+      "count": 1
+    },
+    {
+      "title": "Qudratech",
+      "description": "Aiming to equip individuals with AI-focused skills to meet the evolving demands of the dynamic labor market, QudraTech offers an AI upskilling program for Emirati high school and bachelor’s degree holders. The program equips participants with AI knowledge and prepares them to be proficient annotators through onboarding, training and practical work.",
+      "count": 1
+    },
+    {
+      "title": "Yahclick",
+      "description": "Through YahClick‘s e-Learning solutions, students in underserved areas gain access to quality education, teaching, and resources. We expand the education system beyond the classroom, connecting to upgrade to a broader, more dynamic curriculum that improves the current teaching and learning process. ",
+      "count": 1
+    },
+    {
+      "title": "SMARTi",
+      "description": "SMARTi features intelligent monitoring, detection, and reporting capabilities for hazardous/potentially hazardous scenarios. SMARTi is an intelligent AI solution that features a server that connects to existing CCTV infrastructure to deliver an intelligent AI-enabled solution, with instant incident alerts capable of being generated and fed to the application’s centralized command center for immediate actioning.\r\nThe powerful command center app provides access to comprehensive analysis and insight into safety and security scenarios across an entire fleet of vessels.",
+      "count": 1
+    },
+    {
+      "title": "EmissionX",
+      "description": "EmissionX is a ML-driven, predictive analytics platform that helps monitor, forecast, and report GHG emissions information.EMISSIONX utilizes emission data streamed directly from the source factor of production (oil rig, drilling machine, logistics and services vessel, etc.) to produce up-to-date reporting. The platform’s AI algorithms offer highly reliable monitoring, forecasting, and reporting capabilities, with no additional maintenance or infrastructure requirements.The platform draws information from video feeds; operations technology; information technology; and engineering technology data streams.",
+      "count": 1
+    },
+    {
+      "title": "AR360",
+      "description": "Data-driven Intelligent reservoir management & production optimization solution offering a 360º view of your reservoir. AR360 is a predictive, automated assessment tool providing a 75% efficiency gain in user productivity in performing comprehensive reservoir model reviews. The application democratizes access to all reservoir model data to all asset team members, with information being accessed through a dashboard on the cloud. Tools under AR360 include: Digital Reservoir Model Reviewer, Reservoir Performance Advisor, AI-Assisted Production Forecast, Integrated Workflows.",
+      "count": 1
+    },
+    {
+      "title": "RoboWell",
+      "description": "RoboWell is designed to assist stabilization of well production in the most economically efficient manner.\r\nThe tool maintains stable operating conditions and optimizes well production while considering the objectives to minimize gas lift consumption and operating constraints such as minimum bottom hole pressure, maximum flow line pressure, and maximum annulus pressure, among other factors.\r\nThe application is divided into the cloud, and the control network in the field, tasked with executing the operation’s work processes.",
+      "count": 1
+    },
+    {
+      "title": "Push to talk (PTT)",
+      "description": "Thuraya PTT mobile Gateway is a smart router  which adds resiliency, interoperability and beyond line of sight capabilities to existing critical communications infrastructure such as TETRA, VHF/ UHF and HF line of site  radio systems. The Thuraya PTT MG can be used as a stand alone satellite based push-to-talk solution or it can be integrated with end user existing radio networks.",
+      "count": 1
+    },
+    {
+      "title": "Rig movement optimization",
+      "description": "Rig Move optimizes the placement and allocation of oil wells and rigs, ensuring resources follow optimal, cost-effective paths. Users can manually place wells and rigs or use CSV imports, with customization and error-handling for missing data. The platform integrates layers like cables, obstacles, sand tracks, and roads to aid planning. The optimization model allocates wells to rigs based on cost and distance, prioritizing safe and efficient routes. Users can compare planned vs. optimized solutions for better decision-making, with automated reports and real-time validation minimizing errors and saving time.",
+      "count": 1
+    },
+    {
+      "title": "Digital twin oil & gas ",
+      "description": "Digital Twin for oil and gas is an innovative solution designed for effective oil and gas pipeline asset and facility management. This advanced platform integrates real-time IoT data, 3D models, satellite imagery, and smart analytics to create a virtual replica of pipeline systems and facilities. By enabling continuous monitoring of asset conditions and operational parameters, the digital twin enhances visibility across the network. It supports proactive maintenance, rapid incident response, and operational efficiency optimization, empowering stakeholders to make informed decisions and ensure the safety and sustainability of oil and gas operations. ",
+      "count": 1
+    },
+    {
+      "title": "nybl",
+      "description": "nybl is an AI platform with multiple pre-trained ML modules that enable solutions for various sectors via computer and audio vision, natural language processing, data pipeline, future event prediction, immenent non-trending event prediction, managed ML framework (nuybla). The ML model tested and certified initially is the lift.ai model which is a predictive maintenance module for wellhead operation enabling increased production and reduced downtime for wells. ",
+      "count": 1
+    },
+    {
+      "title": "Remote Management",
+      "description": "Honeywell’s remote asset monitoring offers precise, real-time insights into the condition of critical equipment. By detecting abnormal vibrations, the sensor helps identify potential issues before they lead to failures, reducing downtime and maintenance costs. Ideal for industries like manufacturing, oil and gas, and energy, this wireless solution integrates seamlessly with IoT platforms, enabling continuous monitoring of assets from remote locations and ensuring optimal performance and reliability across operations. ",
+      "count": 1
+    },
+    {
+      "title": "Kinetic Mesh",
+      "description": "This solution encompasses a private wireless networks powered by the patented Kinetic Mesh network, BreadCrumb wireless nodes, and InstaMesh networking software with successful global deployments in more than 60 countries for partners and end customers in military, mining, ports, energy, transportation, municipalities, robotics, heavy construction, agriculture, public safety, autonomy, robotics, warehouse automation, and more.  ",
+      "count": 1
+    },
+    {
+      "title": "Energy Navigator",
+      "description": "Transforming the energy industry with AI. Supporting energy players to be more data-driven across all value streams. Our current focus is about O&G upstream operations in the field of exploration & appraisal, geological modelling, reservoir modelling/monitoring and real-time hybrid field development.",
+      "count": 1
+    },
+    {
+      "title": "Applications Security",
+      "description": "Our services ensure that your security risk exposure not only is assessed via standards, but  also technically validated.\r\nTesting the application suite to pinpoint vulnerabilities and design defensive strategies within software applications.",
+      "count": 1
+    },
+    {
+      "title": "Credit risk analysis",
+      "description": "Advanced AI-driven platform that evaluates and predicts credit risk for individuals and businesses. By analyzing financial data and market conditions, it provides real-time risk assessments and forecasts, empowering institutions to make informed lending decisions. ",
+      "count": 1
+    },
+    {
+      "title": "AML / CTF",
+      "description": "AI-powered platform designed to proactively detect and accurately identify suspicious financial transactions and activities, helping to combat money laundering and terrorism financing.",
+      "count": 1
+    },
+    {
+      "title": "Anti-corruption",
+      "description": "A financal audit and anti-corruption platform powered by generative AI to proactively detect  financial anomalies through generative AI driven big data analytics.",
+      "count": 1
+    },
+    {
+      "title": "Payment screening ",
+      "description": "AI-powered solution that screens and monitors financial transactions in real time. It identifies suspicious payments, sanctions violations, and fraud risks, ensuring compliance with global regulatory standards.",
+      "count": 1
+    },
+    {
+      "title": "Vitruvian for finance (GAI)",
+      "description": "A cutting-edge generative AI-powered platform that delivers unparalleled financial intelligence and predictive insights. Tailored for finance professionals, investment managers, and enterprises, this product transforms complex financial and investment data into actionable strategies.",
+      "count": 1
+    },
+    {
+      "title": "Pharmacogenomics (PGx)",
+      "description": "Pharmacogenomics (PGx) studies how an individual’s genetic makeup influences their response to medications, enabling the development of personalized treatments. By tailoring drug therapies to a person’s genetic profile, it can improve treatment effectiveness, reduce side effects, and optimize dosing. Pharmacogenomics also helps predict adverse drug reactions and explains why people respond differently to the same medication. Currently, PGx is being applied in Abu Dhabi for cancer treatment and mental health, ensuring more precise and effective therapies based on genetic data from the Emirates Genome Program (EGP).",
+      "count": 1
+    },
+    {
+      "title": "Multi-Omics",
+      "description": "Integration and analysis of multiple \"omics\" data types to gain a comprehensive understanding of biological systems. By integrating data from multiple omics fields (e.g., genomics, proteomics, epigenomics), researchers can gain a holistic view of how biological systems function, how diseases develop, and how various factors like genetics, environment, and lifestyle influence health. Multi-omics is especially valuable in personalized medicine, drug discovery, and understanding complex diseases such as cancer or diabetes.",
+      "count": 1
+    },
+    {
+      "title": "Life Sciences Platform",
+      "description": "The Life Sciences Platform is a cutting-edge data analytics solution designed to accelerate research in drug discovery, clinical trials, and genomics. Built with a trusted research environment (TRE) on the cloud, it offers secure access to federated and linked longitudinal data. Researchers can explore vast datasets without compromising privacy and leverage advanced tools for analysis. This platform fosters collaboration and innovation by providing seamless, secure integration of healthcare data across institutions. It is a next-generation powerhouse for scientific breakthroughs in the life sciences field.",
+      "count": 1
+    },
+    {
+      "title": "Clinical Research (IROS)",
+      "description": "IROS is a UAE-based CRO (Contract Research Organization) that provides outsourced research services to the pharmaceutical, biotechnology, and medical device industries, as well as academic institutions and government organizations. CROs are hired to manage various aspects of clinical trials, laboratory research, regulatory compliance, data management, and drug development. Their services help organizations reduce costs, streamline processes, and accelerate timelines for bringing new therapies and products to market. CROs play a crucial role in the drug development process, helping pharmaceutical and biotech companies navigate complex regulations and bring products to market more efficiently.",
+      "count": 1
+    },
+    {
+      "title": "Smart Mosquito",
+      "description": "Smart Mosquito Information Platform is an innovative geospatial information solution designed to map and analyze the distribution of harmful mosquito species and related diseases. Utilizing advanced GIS technologies and real-time analytics, it offers comprehensive monitoring, management, and reporting capabilities. This platform enables health departments to track mosquito populations, assess environmental factors, and receive automated alerts, facilitating informed decision-making and swift responses to potential outbreaks. Ultimately, it enhances public health strategies and improves community safety.",
+      "count": 1
+    },
+    {
+      "title": "Telemedicin (Neflink)",
+      "description": "Niflink is an end-to-end mobile Telemedicine solution (can be customized for eLearning and remote education). The Niflink solution is certified and optimized to work over the Thuraya network due to its robust video transmission and management application which is included as part of the solution. Also included is the PHMS which is a cost-effective cloud based healthcare and patient management SW.  The solution can be customized as a connected ambulance or a fixed remote clinic depending on the use cases. It can also be customized for different missions (disease prevention, disaster relief, military medics, first responders etc...).",
+      "count": 1
+    },
+    {
+      "title": "Gene42",
+      "description": "Gene42 is an open-access genomic foundation model, designed to analyze and interpret large-scale genetic data. Trained on large-scale genomic datasets of longer sequence lengths, Gene42 exhibits higher performance in genomic benchmarks as compared to other foundation models worldwide. It is designed to analyze genetic data, offering the potential to help researchers unlock insights and accelerate discoveries in personalized medicine and genomic research. Note to Giacomo and Bruno: This product was made in collaboration with Inception (G42 company). Inception will lead the marketing efforts for it. So final decision lies with them if they want to showcase or not.",
+      "count": 1
+    },
+    {
+      "title": "M42 App",
+      "description": "The M42 App is a transformative AI driven preventive care platform that allows users to connect with providers anywhere, anytime. It offers secure, on-the-go health record management, making it easy to safely manage personal health data. With the app, users can easily book and track appointments, stay proactive by monitoring their health metrics, and seamlessly integrate services for coordinated care. Designed to provide convenient and personalized care, the M42 App redefines the healthcare experience for everyone, offering a comprehensive solution to manage health in one place.",
+      "count": 1
+    },
+    {
+      "title": "Malaffi",
+      "description": "Malaffi is the GCC region’s first Health Information Exchange platform, that safely and securely connects public and private healthcare providers in the Emirate of Abu Dhabi. Malaffi enables the meaningful, real-time exchange of important patient health information between healthcare providers, creating a centralised database of unified patient records, improving healthcare quality and patient outcomes.",
+      "count": 1
+    },
+    {
+      "title": "Med42",
+      "description": "Med42 is an open-access AI-powered clinical language model designed to handle medical queries with precision and speed. Tailored for healthcare professionals, patients, and the public, Med42 excels in tasks like speech recognition, question answering, and research. With over 8,000 downloads, it has surpassed GPT-4.0 capabilities and achieved an impressive 95% on the US Medical Licensing Exam, making it a highly reliable tool for addressing a wide range of medical inquiries. Med42 model powers multiple healthcare applications for data retrieval, clinical question answering, literature review, and clinical note generation.",
+      "count": 1
+    },
+    {
+      "title": "Doc42",
+      "description": "Doc42 is an AI-powered clinical documentation app designed to reduce the documentation workload for clinicians. It addresses the challenge of lengthy documentation times, which can take up to 16 minutes per patient. By utilizing real-time voice-to-text transcription and advanced data capture technology, Doc42 automatically records and transcribes conversations between healthcare providers and patients, generating accurate clinical documents instantly. Available on both mobile and web platforms, this ready-to-use solution adapts and improves with each use, continuously enhancing its efficiency and accuracy.",
+      "count": 1
+    },
+    {
+      "title": "AIRIS-TB",
+      "description": "AIRIS-TB is an AI-powered chest X-ray for tuberculosis (TB) screening centers. The technology uses advanced AI to detect abnormalities in chest X-rays and instantly flags abnormal results for further review by a radiologist. Developed by M42 and facilitated by M42’s Abu Dhabi Health Data Services, AIRIS-TB was tested in over one million scans over two years at Capital Health Screening Centre (CHSC).",
+      "count": 1
+    },
+    {
+      "title": "K2",
+      "description": "K2 is a model that delivers sustainable performance, delivering cost-effective inference with superior mathematical capabilities, functional accuracy, and safety. Higher quality data means using less computing power than comparable LLMs, reducing energy consumption.",
+      "count": 1
+    },
+    {
+      "title": "JAIS LLM",
+      "description": "JAIS is an Arabic Large Language Model of up to 70-billion parameter LLMs, delivering superior performance and efficiency across various industries. It's easy to integrate wherever you build and with seamless handling and reasoning across bilingual content, JAIS enables organizations to unlock access to the Arabic speaking world and empowers a wider range of communities to access the latest AI technologies.",
+      "count": 1
+    },
+    {
+      "title": "JAIS chat and NANDA Chat",
+      "description": "JAIS is your bilingual mobile companion to learn something new, translation text, analyze documents, and create new content. It's an Arabic GPT on the go plus AI chat assistant with capabilities also available in Hindi. Available on iOS and Android.",
+      "count": 1
+    },
+    {
+      "title": "AI Model Factory",
+      "description": "The AI Model Factory delivers  extensive technical expertise to manage the entire lifecycle of AI model build, from development and deployment to pre-training, fine-tuning, and management to deliver AI models as a service or bespoke products, including bilingual LLMs and industry-specific models.",
+      "count": 1
+    },
+    {
+      "title": "Compass",
+      "description": "Compass is a suite of cloud-based tools, APIs, and custom AI models connecting your business applications with scalable, composable, and seamless integration of AI capabilities through unified access and transparent billing. Compass enables rapid adaptability and market responsiveness to market trends and shifts crucial for maintaining competitive advantage and operational excellence in fast-paced industries.",
+      "count": 1
+    },
+    {
+      "title": "Smart Workforce management",
+      "description": "Smart workforce management and Environmental, Health, and Safety (EHS) solution leverage technology to enhance operational efficiency and employee well-being. By using our data analytics, computer vision , mobile applications, and AI, organizations can streamline scheduling, track employee performance, and optimize resource allocation. Simultaneously, EHS systems monitor compliance, assess risks, and promote safety protocols in real-time, ensuring a safer workplace. This solution  not only boosts productivity but also fosters a culture of safety and responsibility, ultimately leading to better employee satisfaction and reduced incidents.",
+      "count": 1
+    },
+    {
+      "title": "Smart Fire",
+      "description": "Smart fire and life safety alarms management connects buildings across a city by integrating with building management systems and fire panels to monitor environmental conditions, such as gas leaks and people trapped in elevators, while detecting fire hazards in real time. This system enhances safety by providing instant alerts, automating emergency responses, and enabling remote monitoring, ultimately improving the response times of emergency responders like civil defense and firefighters, thereby minimizing risks in residential and commercial spaces.",
+      "count": 1
+    },
+    {
+      "title": "Smart Districts",
+      "description": "Smart districts leverage interconnected technologies, IoT, sensors, and data analytics to enhance urban living by improving infrastructure, sustainability, and quality of life. By integrating smart transportation, energy management, waste management, and public safety systems, our solution optimizes district resources, reduces environmental impact, and fosters community engagement, creating a more efficient and livable urban environment.",
+      "count": 1
+    },
+    {
+      "title": "Smart City Safety Monitoring",
+      "description": "Our smart city safety monitoring employs computer vision technology to enhance urban security and public safety. By analyzing video feeds from surveillance cameras, the system detects suspicious activities, monitors crowd behavior, and identifies potential hazards in real time. This proactive approach enables quicker responses to incidents, improving overall safety and fostering a secure environment for residents.",
+      "count": 1
+    },
+    {
+      "title": "Smart Pollution Monitoring ",
+      "description": "Smart pollution monitoring employs customized mini weather stations, IoT, and data analytics to track air, sound, and water quality across a city in real time. By providing continuous data on pollution levels, the system enables timely alerts, informs public health initiatives, and supports regulatory compliance, ultimately fostering a healthier urban environment and promoting sustainable practices.",
+      "count": 1
+    },
+    {
+      "title": "Smart waste management",
+      "description": "Presight Smart waste management utilizes Iadvanced sensors and data analytics to optimize waste collection and disposal across a city. By monitoring fill levels of bins in real time, the system enables efficient routing for collection trucks, reduces operational costs, and minimizes environmental impact. This approach enhances recycling efforts, improves sanitation, and fosters community engagement in sustainability initiatives.",
+      "count": 1
+    },
+    {
+      "title": "Smart Buildings ",
+      "description": "We incorporate IoT technologies, sensors, integrate with exsisiting building management systems and automation to optimize energy efficiency, reduce waste generation ,enhance security, and improve occupant comfort. By integrating systems like lighting, wate management , acess control , HVAC, and security, these buildings enable real-time monitoring and control, leading to reduced operational costs, increased sustainability, and a more responsive environment for occupants.",
+      "count": 1
+    },
+    {
+      "title": "Smart Integrated Command and Control Centre ",
+      "description": "The Smart Integrated Command and Control Centre leverages advanced technologies, data analytics, and real-time communication to centralize urban management and emergency response. By integrating systems for traffic management, public safety, and resource allocation, it enhances coordination among agencies, improves situational awareness, and enables swift decision-making, ultimately ensuring a safer and more efficient urban environment.",
+      "count": 1
+    },
+    {
+      "title": "Smart parks",
+      "description": "Our solution for public parks leverages a smart AI platform, IoT technologies, and data analytics to enhance visitor experience and park management. By integrating features such as smart lighting, waste management, smart benches, smart Wi-Fi, and environmental monitoring, these parks provide real-time information on amenities, track usage patterns, and promote sustainability. This approach fosters a safer, more enjoyable environment while optimizing resource allocation and maintenance efforts.",
+      "count": 1
+    },
+    {
+      "title": "Ajman Emirate Quality of Life Digital Twin",
+      "description": "Ajman Emirate Quality of Life Digital Twin is an advanced web application platform that provides city managers with a comprehensive view of urban operations, key metrics, and trends, enabling optimized management and enhanced services. Built as a web application leveraging Mapbox and Cesium technology, it integrates high-quality geospatial data, including base maps, vector data, and LOD1 buildings, to create an interactive geospatial environment. This innovative platform enhances government digital service capabilities, boosts operational efficiency, and delivers actionable insights, supporting informed decision-making across various sectors, ultimately leading to improved quality of life for residents and sustainable urban development.",
+      "count": 1
+    },
+    {
+      "title": "Flooding Analysis Digital Twin Platform",
+      "description": "Flood Analysis Digital Twin Platform is an AI-driven solution designed for comprehensive urban flood monitoring and analysis. By integrating weather forecasts, high-resolution satellite imagery, and real-time road CCTV data, the platform leverages advanced GIS and AI technologies to monitor flooding events dynamically. This integration enables detailed spatial analysis and predictive modeling, providing actionable insights for urban managers. The platform supports decision-making across various stages, from disaster preparedness and mitigation to effective response, empowering cities to better protect their communities against the impacts of urban flooding.",
+      "count": 1
+    },
+    {
+      "title": "CorporateAI",
+      "description": "Bringing together the functionality of Procurement and Board Navigator, designed to streamline operational workflows, simplify decision-making and improve employee experience. CorporateAI provides live intelligence on internal and external data, and is trained on domain-specific knowledge to uncover insights for complex and data intensive organizations.",
+      "count": 1
+    },
+    {
+      "title": "Procurement Navigator ",
+      "description": "An AI-powered tool to support corporate users at large enterprises to save money, increase efficiency, and manage risks. Procurement Navigator covers the whole end to end procurement process from sourcing, to contract creation and management to supplier management.",
+      "count": 1
+    },
+    {
+      "title": "Board Navigator",
+      "description": "The AI Observer and Advisor tailored specifically for executives and board members for AI enabled decision making. Designed to enhance corporate governance and strategic decision-making, Board Navigator leverages cutting-edge AI technology to provide actionable insights into company performance and positioning. With live intelligence and domain-specific knowledge, Board Navigator enriches discussions, drives strategic objectives, and optimizes boardroom dynamics. Whether it’s pre-meeting preparation, real-time advisory, or post-meeting summaries, Board Navigator ensures you’re always better prepared.",
+      "count": 1
+    },
+    {
+      "title": "Capital Projects Development system  (CPDS)",
+      "description": "Capital Projects Development System (CPDS) is an innovative platform designed to streamline the management of capital projects across various entities. This robust system facilitates the recording of monthly performance updates and the tracking of progress across different project phases, ensuring transparency and accountability. CPDS empowers ADPIC project managers to effectively monitor and review ongoing projects, while also providing access to all stakeholders involved. By leveraging advanced data analytics and real-time reporting features, the platform enhances collaboration and informed decision-making, ultimately driving project success and fostering a culture of continuous improvement in capital project development.",
+      "count": 1
+    },
+    {
+      "title": "TXAI",
+      "description": "TXAI is an AI-driven taxi solution that reimagines urban mobility by integrating autonomous driving with services like Robotaxi, Robo Minibus, and Automated Rapid Transit (ART). It leverages cutting-edge AI, geospatial intelligence, high-definition cameras, LiDAR, radar, and IoT sensors to deliver real-time visual perception and decision-making capabilities for autonomous driving. These technologies enable TXAI to navigate complex urban environments, monitor traffic, detect obstacles, and optimize routes, ensuring a safe, efficient, and responsive commuting experience. TXAI offers a smart, sustainable, and user-centric transportation solution, setting a new standard for the future of urban travel.",
+      "count": 1
+    },
+    {
+      "title": "Mobility Super App",
+      "description": "Mobility Super App is an all-in-one self-driving taxi-hailing application offering Robotaxi, Robo Minibus, Automated Rapid Transit (ART), along with EV charging and parking services. It offers a user-friendly interface with a lightweight, easy-to-use design, allowing passengers to effortlessly select their destination, request a ride, and enjoy autonomous transportation. The app also provides real-time vehicle monitoring, ensuring a seamless, convenient, and eco-friendly commuting experience, making it an ideal solution for urban mobility.",
+      "count": 1
+    },
+    {
+      "title": "Mobility Digital Twin",
+      "description": "Mobility Digital Twin is an innovative platform that centralizes smart mobility project operations and supports holistic public transportation management. It features six key themes: overall situation awareness, robotaxi and robo minibus services, electric vehicle (EV) charging infrastructure, automated rapid transit (ART), public transport systems, and incident management. By leveraging technologies like Internet of Things (IoT) sensors, artificial intelligence, and big data analytics, the platform delivers real-time insights and predictive analytics for optimized decision-making. Mobility Digital Twin fosters smarter, more sustainable urban mobility while enhancing transit operation management.",
+      "count": 1
+    },
+    {
+      "title": "Environmental Sciences",
+      "description": "The Environmental Sciences Business Unit offers comprehensive sequencing, surveillance, and monitoring services for non-human samples at scale. As a unique end-to-end solution provider, it delivers predictive wastewater surveillance, advanced industrial testing through Build, Operate, Transfer models, and AI-driven environmental tracking and reporting. With a focus on public health and environmental management, its services include non-human DNA sequencing and biobanking, providing crucial insights for ecosystem monitoring, pollutant detection, and early ecological warnings. The team's expertise bridges public health, environmental data, and advanced analytics for informed decision-making and real-world impact.",
+      "count": 1
+    },
+    {
+      "title": "Climate Tech Hub",
+      "description": "Building on NVIDIA’s Earth-2, an open platform that accelerates climate and weather predictions with interactive, AI-augmented, high-resolution simulation. Focused on a square-kilometer resolution weather forecasting model that improves the accuracy of meteorological predictions. ",
+      "count": 1
+    },
+    {
+      "title": "Disaster Prediction and Management Platform (AiD)",
+      "description": "AID serves as a unified global gateway for disaster and crisis response, enabling both the mitigation of crises before they occur and the coordination of effective and efficient responses during and after events. It leverages diverse data sources, including CCTV cameras, IoT sensors, SAR and optical satellite imagery, and reports from government authorities. The platform's core features include anticipating and mitigating risks before a disaster, coordinating response efforts during the event, and monitoring recovery and resource allocation after the crisis. AID has been successfully applied in various real-world scenarios. For example, during Bayanat's analysis of the UAE rainstorms, the platform predicted the event using weather forecast simulations and employed digital twin simulations to better prepare for the storm. During the event, AI was used to detect floods in real-time, and satellite imagery was acquired to assess the situation. After the event, satellite updates were utilized to monitor affected areas, while AI provided recommendations for action plans, supply routes, and response prioritization.",
+      "count": 1
+    },
+    {
+      "title": "OceanX",
+      "description": "In 2023, Bayanat embarked on an important collaboration with the Environment Agency—Abu Dhabi (EAD), OceanX, and M42. This partnership aims to  gather data related to fisheries  and biodiversity, enhance  marine exploration, and bolster  marine conservation by employing advanced marine  research technologies aboard vessels.  GIQ's module on ocean centralizes diverse national oceanic data and leverage AI to analyze and predict trends in environmental changes.",
+      "count": 1
+    },
+    {
+      "title": "Smart chargers",
+      "description": "The smart charging station management solution utilizes IoT and AI to optimize electric vehicle charging stations throughout the city. By ensuring efficient energy distribution and monitoring usage patterns, it provides real-time data to users, enhancing accessibility and reducing wait times. Integrated with the national utility company, the system facilitates grid integration to optimize electricity consumption and balance the load, promoting sustainability and efficiency in urban mobility.",
+      "count": 1
+    },
+    {
+      "title": "Smart Grid",
+      "description": "??",
+      "count": 1
+    },
+    {
+      "title": "Smart Meter",
+      "description": "Our smart metering solution leverages advanced technology include smart meter and smart sensors to provide real-time monitoring and management of energy, water, or gas consumption. Equipped with IoT-enabled devices, smart meters collect detailed usage data and transmit it wirelessly to utility companies and consumers. This enables accurate billing and eliminates the need for manual meter readings.",
+      "count": 1
+    },
+    {
+      "title": "Smart traffic platform",
+      "description": "Smart traffic and incidents management leverages AI, cameras, and real-time data analytics to efficiently monitor and control traffic flow. By detecting incidents and traffic jams, it provides insights for dynamically adjusting signals, suggesting additional lanes, and diverting traffic. This system reduces congestion, enhances safety, and improves emergency response times, resulting in smoother urban mobility",
+      "count": 1
+    },
+    {
+      "title": "Lifesaver",
+      "description": "Tailored for police departments, civil defense, and ambulance services, the platform leverages real-time data and advanced AI algorithms to predict incidents and provide actionable recommendations based on historical data and industry best practices.",
+      "count": 1
+    },
+    {
+      "title": "Police AI Platform",
+      "description": "An AI-driven analytics platform designed to assist police investigators in rapidly processing large volumes of multi-source data, reducing investigation time and fostering greater community trust. Key capabilities include criminal profiling, crime prediction, risk scoring for individuals and areas, analysis of criminal behavior patterns, detection of potential threats, and identification of crime networks.",
+      "count": 1
+    },
+    {
+      "title": "Enterprise Asset Management",
+      "description": "Smart enterprise asset performance management (EAPM) for wind and solar power plants solution utilizes advanced analytics, IoT sensors, and AI to optimize asset efficiency and reliability. By continuously monitoring equipment performance and environmental conditions, EAPM helps identify potential issues before they lead to costly downtime. This proactive approach enables predictive maintenance, ensuring that assets operate at peak performance",
+      "count": 1
+    },
+    {
+      "title": "Fleet Management ",
+      "description": "Smart and safe fleet and driver management leverages advanced technologies including  GPS tracking, AI analytics, and real-time data to optimize vehicle operations, enhance driver safety, and improve overall efficiency. This approach ensures better route planning, reduces fuel costs, and promotes compliance with safety regulations.",
+      "count": 1
+    },
+    {
+      "title": "Rabdan Simulation Digital Twin",
+      "description": "Rabdan simulation digital twin is an advanced disaster simulation and emergency response planning solution designed to enhance the emergency preparedness and response capabilities of relevant stakeholders. Utilizing cutting-edge technologies such as advanced rendering, geospatial intelligence, and physical simulation, it offers highly realistic simulation scenarios focused on three critical situations: refinery fires, airport fires, and urban floods. This immersive environment enables clients to train, plan, and prepare effectively for a wide range of emergency situations, ensuring a more coordinated and efficient response during real-life events.",
+      "count": 1
+    },
+    {
+      "title": "SAR satellite constellation",
+      "description": "We provide comprehensive access to both SAR and optical satellite images covering any location worldwide, including archival data and freshly tasked imagery. Our high-resolution images reach up to 25 cm, sourced from our own Foresight SAR constellation and a wide range of top-tier providers. SAR satellite images are consistent and reliable  irrespective of weather or lighting. Optical satellite images are high-resolution, color-rich imagery that closely represents the human visual experience.",
+      "count": 1
+    },
+    {
+      "title": "Geospatial data integration platform (GIQ)",
+      "description": "gIQ is an innovative geospatial intelligence platform powered by advanced AI. It processes diverse satellite datasets using state-of-the-art algorithms for detailed image analysis, real-time tracking, and predictive analytics. gIQ helps you uncover patterns, identify trends, and gain comprehensive insights into your geospatial data. The gIQ platform allows you to make informed decisions through advanced geospatial analysis, anticipate trends with predictive insights, collaborate and share insights across your organization, and streamline data analysis using customizable workflows. The gIQ platform enables you to access and host applications and AI models from a marketplace, allowing users to commercialize their own models. You can acquire data from top providers like ICEYE and Sentinel-1, with seamless API integration for ordering imagery. The platform supports data visualization and report generation with a wide range of options for effective analysis communication. Explore data immersively using the interactive 3D globe, and perform precise annotation and segmentation for raster files, training models directly within the platform. Additionally, manage your workspace efficiently and collaborate seamlessly with your team.",
+      "count": 1
+    },
+    {
+      "title": "Skyphone",
+      "description": "The world's first universal smartphone with cellular and satellite connectivity. Introducing the next evolution in mobile technology. This everyday smartphone seamlessly integrates satellite connectivity, allowing the user to make calls and send messages even when outside of cellular coverage. ",
+      "count": 1
+    },
+    {
+      "title": "Media AI Platform",
+      "description": "Advanced AI-powered platform designed to transform the way organizations monitor and analyze media landscapes. Equipped with state-of-the-art generative AI, the platform delivers deep insights from online news, social networks, and public contents, empowering businesses and institutions to stay ahead in the fast-paced media world.",
+      "count": 1
+    },
+    {
+      "title": "Golden Globe Race AI",
+      "description": "Golden Globe Race AI platform is an intelligent and user-friendly information hub for the iconic non-stop, single-handed, round-the-world yacht race. This advanced platform provides real-time monitoring of race situation, including their current position, speed, distance, and route, while intelligently predicting future paths. By integrating map services, meteorological data, and satellite imagery, it enhances user experience with comprehensive insights. Additionally, the platform features voice data for each stop point and displays real-time rankings, contestant and sailboat information, race milestones, and social media updates. Public engagement is further supported by allowing users to replay race progress, ensuring a dynamic and interactive viewing experience.",
+      "count": 1
+    },
+    {
+      "title": "Swim 62",
+      "description": "Swim 62 platform is an advanced real-time event monitoring system tailored for Swim 62 swimming events, providing comprehensive tracking of athlete status and event progress. With a user-friendly interface, this geospatial web application integrates GPS data, IoT sensor information, and weather data to deliver live monitoring of key parameters such as athlete locations, health metrics, and environmental conditions. This ensures that both spectators and event managers have an up-to-date view of the competition, enhancing public engagement and keeping everyone informed about athlete performance and event dynamics.",
+      "count": 1
+    },
+    {
+      "title": "Row400",
+      "description": "Row400 platform is an innovative real-time event monitoring platform designed for the Row 400 kayak racing challenge, providing seamless tracking of athlete status and event progress. With a user-friendly interface, this geospatial web application combines satellite imagery and map services with integrated GPS data, IoT sensor information, and weather updates. This allows for real-time monitoring of key parameters, including athlete locations, health metrics, and environmental conditions. By offering a comprehensive live view of the event, the platform keeps spectators and event managers informed about athletic performance and overall dynamics, enhancing public engagement and the racing experience.",
+      "count": 1
+    },
+    {
+      "title": "McIntyre Ocean Globe",
+      "description": "McIntyre Ocean Globe (OGR platform) is an advanced information hub for the Ocean Globe Race, a fully crewed retro race inspired by the 1973 Whitbread Round the World Race. This platform offers comprehensive race details for each team, including real-time positions, sailing routes, rankings, sailing parameters, and race introductions. It integrates map services to display live race paths and locations, enhancing user experience. The platform also features daily race report videos, select voice data, and a race replay function, promoting public engagement and a deeper understanding of the event. ",
+      "count": 1
+    },
+    {
+      "title": "Supply Chain Digital Twin",
+      "description": "The supply chain digital twin ensure smooth operations, enhanced efficiency, and improved decision-making across the logistics network by integrating geospatial map service, IoT sensor data, GPS, and advanced analytics. The platform offers features such as warehouse management, logistics route planning, vehicle scheduling,  resource allocation, inventory tracking, providing real-time visibility into the entire supply chain.",
+      "count": 1
+    },
+    {
+      "title": "Smart Supply Cold Chain Monitoring",
+      "description": "Smart supply cold chain monitoring employs IoT sensors and data analytics to track temperature, humidity, handling and location for critical supplies, including medicines and perishable goods, from source to delivery. This technology ensures the integrity of these essential items by providing real-time alerts for deviations, enabling proactive management, reducing spoilage, and ensuring compliance with safety standards",
+      "count": 1
+    },
+    {
+      "title": "SatTrack for Land",
+      "description": "Thuraya SatTrack for Land is a robust tracking and monitoring solution designed for real-time management of vehicles and assets in remote or challenging environments. Utilizing Thuraya's satellite network, SatTrack provides reliable location data, geofencing, and movement alerts, ensuring seamless connectivity where terrestrial networks are unavailable. Ideal for industries like logistics, mining, and humanitarian missions, it enhances fleet visibility, improves operational efficiency, and ensures safety through continuous asset tracking, even in the most isolated regions.",
+      "count": 1
+    },
+    {
+      "title": "Container Tracking",
+      "description": "Container Tracking and Fleet Management solution is a unique multi-purpose IoT tracking solution that provides continuous connectivity and secures assets with the most ruggedized lock system on the market.\r\nThe tracking and management system provides continuous real-time tracking, enabling monitoring and controlling the container and its content via undisrupted communication by combining telecom and satcom technologies.\r\nWith its management software, the solution provides positioning and asset data where alarms are triggered if any parameters are outside set thresholds, enabling necessary actions to be initiated when required.",
+      "count": 1
+    }
+  ],
+  "space": [
+    {
+      "title": "HAPS",
+      "description": "A High Altitude Pseudo Satellite (HAPS) is a large, solar-powered, unmanned aerial vehicle designed to operate in the Earth's stratosphere (altitudes of 13-20km), above conventional air traffic and weather patterns. Space42 launched the UAE's first HAPS in 2024 through MIRA Aerospace, its JV company with UAVOS. HAPS can be used for a wide range of use cases, such as monitoring and surveying or to bring connectivity to remote areas.",
+      "count": 2
+    },
+    {
+      "title": "AL YAH 1",
+      "description": "A constellation of satellites with coverage across 45 countries to provide high-speed, reliable internet connectivity for remote and underserved areas, ensuring seamless communication for businesses and government entities.",
+      "count": 1
+    },
+    {
+      "title": "THURAYA ",
+      "description": "A constellation of satellites that provide reliable communication solutions for land, sea, and air, including industrial and consumer satellite phones, broadband terminals, and IoT solutions. Ensuring seamless connectivity in remote areas, Thuraya supports real-time data transmission, asset tracking, and critical communication for government and commercial clients.",
+      "count": 2
+    },
+    {
+      "title": "Foresight-1",
+      "description": "A Synthetic Aperture Radar (SAR) satellite, the first in the UAE's Earth Observation Space Programme, launched by Space42 in August 2024 to provide continuous, high-resolution monitoring solutions, using SAR technology, which is an active sensing system that illuminates the Earth's surface and measures the reflected signal to provide high-resolution images, with the ability capture images day or night regardless of weather conditions or the reflection of sunlight.",
+      "count": 3
+    }
+  ]
+}

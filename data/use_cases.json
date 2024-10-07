@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cybersecurity",
+    "description": "",
+    "count": 1
+  },
+  {
+    "title": "Data Centers",
+    "description": "",
+    "count": 1
+  },
+  {
+    "title": "Defence",
+    "description": "",
+    "count": 1
+  },
+  {
+    "title": "Education",
+    "description": "",
+    "count": 1
+  },
+  {
+    "title": "Energy",
+    "description": "",
+    "count": 3
+  },
+  {
+    "title": "Financial Services",
+    "description": "",
+    "count": 1
+  },
+  {
+    "title": "Healthcare",
+    "description": "",
+    "count": 4
+  },
+  {
+    "title": "LLMs & Cloud",
+    "description": "",
+    "count": 1
+  },
+  {
+    "title": "Smart City",
+    "description": "",
+    "count": 7
+  },
+  {
+    "title": "Space & Geospatial",
+    "description": "",
+    "count": 1
+  },
+  {
+    "title": "Sport & Media",
+    "description": "",
+    "count": 1
+  },
+  {
+    "title": "Supply Chain",
+    "description": "",
+    "count": 1
+  }
+]

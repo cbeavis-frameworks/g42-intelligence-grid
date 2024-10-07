@@ -1,0 +1,354 @@
+[
+  {
+    "element": "Data center",
+    "connected_to": [
+      "Government building",
+      "Office blocks",
+      "Supercomputer",
+      "University",
+      "Wind farm",
+      "Municipality",
+      "Police station",
+      "High school",
+      "Oil rig",
+      "Sea vessels",
+      "Factories and Plants",
+      "Financial institution",
+      "Hospital",
+      "Laboratory",
+      "Clinic",
+      "Water treatment ",
+      "Power station",
+      "Edge computing & Sensors",
+      "Car park",
+      "Subway",
+      "Autonomous vehicles",
+      "Public park",
+      "Weather station",
+      "Refuse collection depot",
+      "Farm",
+      "Fire station",
+      "Airport",
+      "Sport stadium (football)",
+      "F1 Race Track ",
+      "Arena (Space 42)",
+      "Warehouse"
+    ]
+  },
+  {
+    "element": "Government building",
+    "connected_to": [
+      "Data center",
+      "Office blocks",
+      "Supercomputer",
+      "University",
+      "Municipality",
+      "Police station",
+      "Financial institution",
+      "Weather station",
+      "Refuse collection depot",
+      "Farm",
+      "Sea vessels",
+      "Fire station",
+      "Airport"
+    ]
+  },
+  {
+    "element": "Office blocks",
+    "connected_to": [
+      "Data center",
+      "Government building",
+      "Supercomputer",
+      "University",
+      "Wind farm",
+      "Financial institution",
+      "Edge computing & Sensors",
+      "Public park",
+      "Municipality"
+    ]
+  },
+  {
+    "element": "Supercomputer",
+    "connected_to": [
+      "Data center",
+      "Government building",
+      "Office blocks",
+      "University",
+      "Hospital",
+      "Laboratory",
+      "Clinic"
+    ]
+  },
+  {
+    "element": "University",
+    "connected_to": [
+      "Data center",
+      "Government building",
+      "Office blocks",
+      "Supercomputer",
+      "High school",
+      "Hospital",
+      "Laboratory",
+      "Clinic"
+    ]
+  },
+  {
+    "element": "Wind farm",
+    "connected_to": [
+      "Data center",
+      "Office blocks"
+    ]
+  },
+  {
+    "element": "Municipality",
+    "connected_to": [
+      "Government building",
+      "Data center",
+      "Police station",
+      "Water treatment ",
+      "Power station",
+      "Edge computing & Sensors",
+      "Public park",
+      "Office blocks",
+      "Fire station"
+    ]
+  },
+  {
+    "element": "Police station",
+    "connected_to": [
+      "Government building",
+      "Data center",
+      "Municipality",
+      "Fire station",
+      "Weather station"
+    ]
+  },
+  {
+    "element": "High school",
+    "connected_to": [
+      "Data center",
+      "University"
+    ]
+  },
+  {
+    "element": "Oil rig",
+    "connected_to": [
+      "Sea vessels",
+      "Data center",
+      "Factories and Plants"
+    ]
+  },
+  {
+    "element": "Sea vessels",
+    "connected_to": [
+      "Oil rig",
+      "Data center",
+      "Factories and Plants",
+      "Weather station",
+      "Refuse collection depot",
+      "Farm",
+      "Government building"
+    ]
+  },
+  {
+    "element": "Factories and Plants",
+    "connected_to": [
+      "Oil rig",
+      "Sea vessels",
+      "Data center",
+      "Autonomous vehicles",
+      "Warehouse",
+      "Edge computing & Sensors"
+    ]
+  },
+  {
+    "element": "Financial institution",
+    "connected_to": [
+      "Data center",
+      "Government building",
+      "Office blocks"
+    ]
+  },
+  {
+    "element": "Hospital",
+    "connected_to": [
+      "Laboratory",
+      "Clinic",
+      "Supercomputer",
+      "Data center",
+      "University"
+    ]
+  },
+  {
+    "element": "Laboratory",
+    "connected_to": [
+      "Hospital",
+      "Clinic",
+      "Supercomputer",
+      "Data center",
+      "University"
+    ]
+  },
+  {
+    "element": "Clinic",
+    "connected_to": [
+      "Hospital",
+      "Laboratory",
+      "Supercomputer",
+      "Data center",
+      "University"
+    ]
+  },
+  {
+    "element": "Water treatment ",
+    "connected_to": [
+      "Data center",
+      "Power station",
+      "Municipality"
+    ]
+  },
+  {
+    "element": "Power station",
+    "connected_to": [
+      "Data center",
+      "Water treatment ",
+      "Municipality"
+    ]
+  },
+  {
+    "element": "Edge computing & Sensors",
+    "connected_to": [
+      "Data center",
+      "Car park",
+      "Subway",
+      "Autonomous vehicles",
+      "Public park",
+      "Municipality",
+      "Office blocks",
+      "Warehouse",
+      "Factories and Plants"
+    ]
+  },
+  {
+    "element": "Car park",
+    "connected_to": [
+      "Data center",
+      "Edge computing & Sensors",
+      "Subway",
+      "Autonomous vehicles"
+    ]
+  },
+  {
+    "element": "Subway",
+    "connected_to": [
+      "Data center",
+      "Edge computing & Sensors",
+      "Car park",
+      "Autonomous vehicles"
+    ]
+  },
+  {
+    "element": "Autonomous vehicles",
+    "connected_to": [
+      "Data center",
+      "Edge computing & Sensors",
+      "Car park",
+      "Subway",
+      "Warehouse",
+      "Factories and Plants"
+    ]
+  },
+  {
+    "element": "Public park",
+    "connected_to": [
+      "Data center",
+      "Edge computing & Sensors",
+      "Municipality",
+      "Office blocks"
+    ]
+  },
+  {
+    "element": "Weather station",
+    "connected_to": [
+      "Refuse collection depot",
+      "Data center",
+      "Farm",
+      "Government building",
+      "Sea vessels",
+      "Fire station",
+      "Police station",
+      "Airport"
+    ]
+  },
+  {
+    "element": "Refuse collection depot",
+    "connected_to": [
+      "Weather station",
+      "Data center",
+      "Farm",
+      "Government building",
+      "Sea vessels"
+    ]
+  },
+  {
+    "element": "Farm",
+    "connected_to": [
+      "Weather station",
+      "Refuse collection depot",
+      "Data center",
+      "Government building",
+      "Sea vessels"
+    ]
+  },
+  {
+    "element": "Fire station",
+    "connected_to": [
+      "Data center",
+      "Police station",
+      "Municipality",
+      "Government building",
+      "Weather station"
+    ]
+  },
+  {
+    "element": "Airport",
+    "connected_to": [
+      "Government building",
+      "Data center",
+      "Weather station"
+    ]
+  },
+  {
+    "element": "Sport stadium (football)",
+    "connected_to": [
+      "Data center",
+      "F1 Race Track ",
+      "Arena (Space 42)"
+    ]
+  },
+  {
+    "element": "F1 Race Track ",
+    "connected_to": [
+      "Data center",
+      "Sport stadium (football)",
+      "Arena (Space 42)"
+    ]
+  },
+  {
+    "element": "Arena (Space 42)",
+    "connected_to": [
+      "Data center",
+      "Sport stadium (football)",
+      "F1 Race Track "
+    ]
+  },
+  {
+    "element": "Warehouse",
+    "connected_to": [
+      "Autonomous vehicles",
+      "Data center",
+      "Edge computing & Sensors",
+      "Factories and Plants"
+    ]
+  }
+]

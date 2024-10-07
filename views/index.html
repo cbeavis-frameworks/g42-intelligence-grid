@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>City Map Visualization</title>
+    <!-- Vis.js library -->
+    <script
+      type="text/javascript"
+      src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <!-- Custom styles -->
+    <link
+      rel="stylesheet"
+      href="/styles.css" />
+    <style>
+      /* Optional: Set the size of your network container */
+      #network {
+        width: 100%;
+        height: 800px;
+        border: 1px solid lightgray;
+        box-sizing: border-box;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>City Map Visualization</h2>
+    <div id="network"></div>
+    <script type="text/javascript">
+      // Declare variables
+      let nodes, edges, network, backgroundImage;
+
+      // Function to load the background image
+      function loadBackgroundImage(src) {
+        return new Promise((resolve, reject) => {
+          backgroundImage = new Image();
+          backgroundImage.onload = function () {
+            resolve(backgroundImage);
+          };
+          backgroundImage.onerror = function (err) {
+            reject(err);
+          };
+          backgroundImage.src = src;
+        });
+      }
+
+      // Fetch nodes and edges data and load the background image
+      Promise.all([
+        fetch("/data").then((response) => response.json()),
+        loadBackgroundImage("/citymap.png"), // Update the path to your image
+      ])
+        .then(([data]) => {
+          nodes = new vis.DataSet(data.nodes);
+          edges = new vis.DataSet(data.edges);
+
+          // Optionally, set initial positions for nodes
+          const imgWidth = backgroundImage.width;
+          const imgHeight = backgroundImage.height;
+          nodes.forEach(function (node) {
+            node.x = Math.random() * imgWidth - imgWidth / 2;
+            node.y = Math.random() * imgHeight - imgHeight / 2;
+          });
+
+          const container = document.getElementById("network");
+          const graphData = { nodes: nodes, edges: edges };
+          const options = {
+            physics: {
+              enabled: false, // Disable physics since we'll position nodes manually
+            },
+            nodes: {
+              shape: "dot",
+              size: 20,
+              font: {
+                size: 16,
+                color: "white", // Set the text color to white
+                background: "rgba(0, 0, 0, 0.5)", // Semi-transparent black background
+                strokeWidth: 0, // No border around the text
+              },
+            },
+            edges: {
+              width: 2,
+              color: { color: "#848484", highlight: "#848484", hover: "#848484" },
+              smooth: {
+                type: "continuous",
+              },
+            },
+            interaction: {
+              hover: true,
+              dragNodes: true, // Allow dragging of nodes
+              dragView: true, // Enable panning
+              zoomView: true, // Enable zooming
+            },
+          };
+
+          network = new vis.Network(container, graphData, options);
+
+          // Calculate edge lengths and update their colors
+          colorEdgesByLength();
+
+          // Recalculate edge colors after nodes are moved
+          network.on("dragEnd", function (params) {
+            if (params.nodes.length > 0) {
+              colorEdgesByLength();
+            }
+          });
+
+          function colorEdgesByLength() {
+            const positions = network.getPositions();
+            let lengths = [];
+            edges.forEach(function (edge) {
+              const fromPos = positions[edge.from];
+              const toPos = positions[edge.to];
+              const length = Math.sqrt(Math.pow(fromPos.x - toPos.x, 2) + Math.pow(fromPos.y - toPos.y, 2));
+              lengths.push(length);
+              edge.length = length; // store length in edge object
+            });
+
+            const minLen = Math.min(...lengths);
+            const maxLen = Math.max(...lengths);
+
+            edges.forEach(function (edge) {
+              const normalizedLength = (edge.length - minLen) / (maxLen - minLen);
+              const color = getColor(normalizedLength);
+              edges.update({
+                id: edge.id,
+                color: {
+                  color: color,
+                  highlight: color,
+                  hover: color,
+                },
+              });
+            });
+          }
+
+          // Function to map a value between 0 and 1 to a color from green to red
+          function getColor(value) {
+            const red = Math.round(255 * value);
+            const green = Math.round(255 * (1 - value));
+            const blue = 0;
+            return `rgb(${red},${green},${blue})`;
+          }
+
+          // Add event listeners
+          network.on("click", function (params) {
+            if (params.nodes.length > 0) {
+              const nodeId = params.nodes[0];
+              const node = nodes.get(nodeId);
+              alert("Selected node: " + node.label);
+            }
+          });
+
+          // Draw the background image in the beforeDrawing event
+          network.on("beforeDrawing", function (ctx) {
+            // Draw the image centered at (0,0)
+            ctx.drawImage(backgroundImage, -backgroundImage.width / 2, -backgroundImage.height / 2);
+          });
+        })
+        .catch((error) => {
+          console.error("Error fetching data or loading image:", error);
+        });
+    </script>
+  </body>
+</html>

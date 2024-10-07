@@ -1,0 +1,677 @@
+[
+  {
+    "use_case": "Cybersecurity",
+    "solutions": [
+      {
+        "title": "Cybersecurity",
+        "description": "Our cybersecurity platform offers next-generation Security Operations Center (SOC) to deliver integrated cyber defence services, perimeter defences to protect organizations networks, endpoints, applications and data, and advisory and consultancy services to meet the ever changing cybersecurity needs.",
+        "industry": "Cybersecurity",
+        "elements": {
+          "surface": [
+            "Data center",
+            "Government building",
+            "Office blocks",
+            "Supercomputer",
+            "University"
+          ],
+          "cloud": [
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Sovereign Public Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Cyber Consulting Services",
+            "Cloud Security Services",
+            "Cyber Solutions & Delivery",
+            "Cyber Resilience Services",
+            "Cyber Test And Evaluation",
+            "Physical Security Services"
+          ],
+          "space": []
+        }
+      }
+    ]
+  },
+  {
+    "use_case": "Data Centers",
+    "solutions": [
+      {
+        "title": "Data Centers",
+        "description": "Our data centers are engineered for rapid scalability, built to UTI Tier III standards, and equipped with AI-optimized efficiency for unmatched resilience and uptime. We utilize cutting-edge cooling solutions, including adiabatic and liquid cooling, alongside water-conservative designs to maximize energy efficiency and minimize resource use.",
+        "industry": "Data Centers",
+        "elements": {
+          "surface": [
+            "Data center",
+            "Wind farm",
+            "Office blocks"
+          ],
+          "cloud": [
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Sovereign Public Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Smart Power Distribution",
+            "Smart Data Center Digital Twin"
+          ],
+          "space": []
+        }
+      }
+    ]
+  },
+  {
+    "use_case": "Defence",
+    "solutions": [
+      {
+        "title": "Defence",
+        "description": "Harnessing AI, big data analytics, and a network of IoT devices, satellites, radars, and optical sensors, our Defence solutions enhance national security through smart platforms for border protection, perimeter intrusion detection, supply chain and manpower planning, and land monitoring. These advanced technologies provide real-time insights and situational awareness, enabling swift responses to potential threats. By integrating comprehensive data sources, our solutions ensure efficient planning of defence operations, helping  agencies safeguard critical assets and maintain peace in an increasingly complex security landscape. ",
+        "industry": "Defence",
+        "elements": {
+          "surface": [
+            "Government building",
+            "Data center",
+            "Municipality",
+            "Police station"
+          ],
+          "cloud": [
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Sovereign Public Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "SCIF ",
+            "xThreat",
+            "Manpower & Resource Planning",
+            "Perimeter Intrusion Detection",
+            "Video Surveillance"
+          ],
+          "space": []
+        }
+      }
+    ]
+  },
+  {
+    "use_case": "Education",
+    "solutions": [
+      {
+        "title": "Education",
+        "description": "xx",
+        "industry": "Education",
+        "elements": {
+          "surface": [
+            "Data center",
+            "University",
+            "High school"
+          ],
+          "cloud": [
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Sovereign Public Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Smart School Digital Twin",
+            "Qudratech",
+            "Yahclick"
+          ],
+          "space": []
+        }
+      }
+    ]
+  },
+  {
+    "use_case": "Energy",
+    "solutions": [
+      {
+        "title": "Asset Optimisation",
+        "description": "Harnessing AI, machine learning, computer vision, and big data analytics, our solutions revolutionize well operations with tools like AIQ's AR360 and RoboWell. These advanced solutions enable rig movement optimization and enhance wells' operational efficiency, leading to increased productivity while significantly reducing costs and enhancing safety. By integrating real-time data analysis and predictive insights, our solutions empower operators to make informed decisions, ensuring optimal performance and sustainability in well management.",
+        "industry": "Energy",
+        "elements": {
+          "surface": [
+            "Oil rig",
+            "Sea vessels",
+            "Data center"
+          ],
+          "cloud": [
+            "AI Cloud",
+            "Sovereign Public Cloud",
+            "Signature Private Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "AR360",
+            "RoboWell",
+            "Rig movement optimization",
+            "Energy Navigator"
+          ],
+          "space": []
+        }
+      },
+      {
+        "title": "Asset Monitoring",
+        "description": "Harnessing AI, machine learning, computer vision, and big data analytics, our Smart Energy Assets Monitoring solutions transform the management of oil and gas operations through advanced technologies such as Digital Twin models, EmissionX and remote management systems that enable real-time monitoring of sea vessels, rigs, and refineries, enhancing operational productivity and sustainability while significantly reducing costs and improving safety. ",
+        "industry": "Energy",
+        "elements": {
+          "surface": [
+            "Oil rig",
+            "Factories and Plants",
+            "Sea vessels",
+            "Data center"
+          ],
+          "cloud": [
+            "AI Cloud",
+            "Sovereign Public Cloud",
+            "Signature Private Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "nybl",
+            "Digital twin oil & gas ",
+            "Remote Management",
+            "Kinetic Mesh",
+            "EmissionX"
+          ],
+          "space": []
+        }
+      },
+      {
+        "title": "Safety & Security",
+        "description": "Harnessing AI, machine learning, big data analytics, and IoT, our Smart Safety & Security solutions for the energy industry enhance the protection of critical assets through innovative technologies like AIQ's SMARTi product. By continuously monitoring sea vessels, rigs, and refineries, these solutions increase safety and operational efficiency while mitigating risks. With real-time data analysis and predictive insights, our systems empower operators to proactively address potential safety hazards and optimize response strategies, ensuring a safer and more resilient energy environment.",
+        "industry": "Energy",
+        "elements": {
+          "surface": [
+            "Oil rig",
+            "Factories and Plants",
+            "Sea vessels",
+            "Data center"
+          ],
+          "cloud": [
+            "AI Cloud",
+            "Sovereign Public Cloud",
+            "Signature Private Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "SMARTi",
+            "Push to talk (PTT)"
+          ],
+          "space": []
+        }
+      }
+    ]
+  },
+  {
+    "use_case": "Financial Services",
+    "solutions": [
+      {
+        "title": "Financial Services",
+        "description": "Harnessing AI and big data analytics, our Smart Financial Services solutions enhance the security and efficiency of financial institutions through advanced tools that enable automated financial audits, anti-money laundering, anti-corruption, and credit-risk analysis. By offering robust applications security and KYC (Know Your Customer) solutions, we help financial institutions mitigate risks, ensure compliance, and safeguard customer data, ensuring long-term resilience and trust in the financial ecosystem.",
+        "industry": "Financial Services",
+        "elements": {
+          "surface": [
+            "Financial institution",
+            "Data center",
+            "Government building",
+            "Office blocks"
+          ],
+          "cloud": [
+            "Sovereign Public Cloud",
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Applications Security",
+            "Payment screening ",
+            "Vitruvian for finance (GAI)",
+            "Credit risk analysis",
+            "AML / CTF",
+            "Anti-corruption"
+          ],
+          "space": []
+        }
+      }
+    ]
+  },
+  {
+    "use_case": "Healthcare",
+    "solutions": [
+      {
+        "title": "Genomics and Precision Medicine",
+        "description": "Leveraging cutting-edge genomics and multi-omics technologies, our solutions empower personalized healthcare by unraveling the intricacies of individual genetic profiles. Through offerings like Pharmacogenomics (PGx), Multi-Omics integration, and Gene42, we enable tailored treatments that enhance effectiveness, minimize side effects, and accelerate drug discovery. By integrating vast biological data, we provide a holistic understanding of diseases, driving innovations in precision medicine and transforming patient outcomes through personalized therapeutic strategies.",
+        "industry": "Healthcare",
+        "elements": {
+          "surface": [
+            "Hospital",
+            "Laboratory",
+            "Clinic",
+            "Supercomputer",
+            "Data center",
+            "Laboratory",
+            "University"
+          ],
+          "cloud": [
+            "Sovereign Public Cloud",
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Pharmacogenomics (PGx)",
+            "Multi-Omics",
+            "Gene42"
+          ],
+          "space": []
+        }
+      },
+      {
+        "title": "AI-Powered Clinical Solutions",
+        "description": "Harnessing the power of artificial intelligence, our AI-powered clinical solutions revolutionize healthcare delivery by enhancing diagnostics, streamlining workflows, and supporting informed decision-making. With tools like Med42 for advanced medical insights and Doc42 for efficient clinical documentation, we reduce clinician workload and improve accuracy. AIRIS-TB accelerates tuberculosis screening with instant AI analysis, while the Smart Mosquito Information Platform enables proactive disease surveillance. Incorporating Clinical Research (IROS), we bolster clinical trials and drug development, driving efficiency and innovation in the pharmaceutical landscape.",
+        "industry": "Healthcare",
+        "elements": {
+          "surface": [
+            "Hospital",
+            "Laboratory",
+            "Clinic",
+            "Data center"
+          ],
+          "cloud": [
+            "Sovereign Public Cloud",
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Med42",
+            "Doc42",
+            "AIRIS-TB",
+            "Smart Mosquito",
+            "Clinical Research (IROS)"
+          ],
+          "space": []
+        }
+      },
+      {
+        "title": "Telehealth and Mobile Health Solutions",
+        "description": "Embracing the future of connected healthcare, our telehealth and mobile solutions provide flexible, remote access to medical services anytime, anywhere. Telemedicine (Neflink) delivers an end-to-end mobile telemedicine platform, optimized for robust communication over the Thuraya network, customizable for various missions like disaster relief and remote clinics. The M42 App transforms preventive care with AI-driven health management, enabling users to securely manage health records, book appointments, and monitor health metrics on-the-go. Our solutions enhance accessibility, engagement, and personalized care by bringing healthcare directly to patients.",
+        "industry": "Healthcare",
+        "elements": {
+          "surface": [
+            "Hospital",
+            "Clinic",
+            "Data center"
+          ],
+          "cloud": [
+            "Sovereign Public Cloud",
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Malaffi",
+            "Life Sciences Platform"
+          ],
+          "space": [
+            "THURAYA "
+          ]
+        }
+      },
+      {
+        "title": "Data Platforms and Exchanges",
+        "description": "Our secure healthcare data platforms facilitate seamless integration, exchange, and analysis of medical information across institutions. Malaffi, the GCC region’s first Health Information Exchange, connects public and private healthcare providers for real-time patient health information exchange, enhancing care coordination and patient outcomes. Our Life Sciences Platform offers a trusted cloud-based research environment, providing secure access to federated and longitudinal data for accelerated drug discovery, clinical trials, and genomics research.  By leveraging data-driven insights, we advance collaborative healthcare and foster innovation.",
+        "industry": "Healthcare",
+        "elements": {
+          "surface": [
+            "Hospital",
+            "Clinic",
+            "Laboratory",
+            "University",
+            "Data center"
+          ],
+          "cloud": [
+            "Sovereign Public Cloud",
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "M42 App",
+            "Telemedicin (Neflink)"
+          ],
+          "space": []
+        }
+      }
+    ]
+  },
+  {
+    "use_case": "LLMs & Cloud",
+    "solutions": [
+      {
+        "title": "LLMs",
+        "description": "xx",
+        "industry": "LLMs & Cloud",
+        "elements": {
+          "surface": [
+            "Data center",
+            "Supercomputer"
+          ],
+          "cloud": [
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Sovereign Public Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "K2",
+            "JAIS LLM",
+            "JAIS chat and NANDA Chat",
+            "AI Model Factory",
+            "Compass"
+          ],
+          "space": []
+        }
+      }
+    ]
+  },
+  {
+    "use_case": "Smart City",
+    "solutions": [
+      {
+        "title": "Utilities & OMG",
+        "description": "Utilizing advanced technologies such as smart meters, real-time data analytics, and AI, our solution can identify inefficiencies, reduce consumption, and lower costs. Effective energy management solution not only enhances operational efficiency but also supports sustainability goals by minimizing carbon footprints. Continuous monitoring enables proactive adjustments, ensuring that energy resources are used efficiently while maintaining comfort and performance.",
+        "industry": "Smart City",
+        "elements": {
+          "surface": [
+            "Data center",
+            "Water treatment ",
+            "Power station",
+            "Municipality"
+          ],
+          "cloud": [
+            "Signature Private Cloud",
+            "AI Cloud",
+            "Sovereign Public Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Smart Meter",
+            "Smart Grid",
+            "Enterprise Asset Management"
+          ],
+          "space": []
+        }
+      },
+      {
+        "title": "Transport & mobility",
+        "description": "Harnessing technologies such as digital twins, IoTs, and geospatial intelligence, our smart mobility offering optimizes urban and industrial transportation systems for efficiency and sustainability, enabling autonomous driving, smart traffic and fleet management solutions, among many others. From simulating traffic scenarios to reduce congestion, to enabling fully autonomous public transport, our wide range of solutions improves mobility while reducing environmental impact and operational costs.",
+        "industry": "Smart City",
+        "elements": {
+          "surface": [
+            "Data center",
+            "Edge computing & Sensors",
+            "Car park",
+            "Subway",
+            "Autonomous vehicles"
+          ],
+          "cloud": [
+            "Signature Private Cloud",
+            "Transportation Cloud",
+            "Sovereign Public Cloud",
+            "AI Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Smart chargers",
+            "Smart traffic platform",
+            "TXAI",
+            "Mobility Super App",
+            "Mobility Digital Twin",
+            "Fleet Management "
+          ],
+          "space": []
+        }
+      },
+      {
+        "title": "Buildings & public spaces",
+        "description": "Leveraging AI, big data analytics, and IoT, our smart building and public space solutions enhance urban living through technologies like smart lights, smart waste management, and environmental monitoring. Our AI-powered platforms, allow to measure quality-of-life factors supporting critical decision making that result in efficient resource use, improved sustainability, and safer, more comfortable urban spaces.",
+        "industry": "Smart City",
+        "elements": {
+          "surface": [
+            "Data center",
+            "Edge computing & Sensors",
+            "Public park",
+            "Municipality",
+            "Office blocks"
+          ],
+          "cloud": [
+            "Signature Private Cloud",
+            "AI Cloud",
+            "Sovereign Public Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Smart Districts",
+            "Smart Buildings ",
+            "Smart parks",
+            "Ajman Emirate Quality of Life Digital Twin",
+            "Smart Integrated Command and Control Centre "
+          ],
+          "space": []
+        }
+      },
+      {
+        "title": "Environment & climate",
+        "description": "Harnessing AI, big data analytics, IoT, and environmental science, our Smart Climate and Environment solutions deliver real-time insights and predictive capabilities into pollution levels, waste management, and the health of the ecosystems around us, from cities to oceans and coral reefs. These solutions support sustainability efforts, helping to create better livable environments and combat climate change effectively.",
+        "industry": "Smart City",
+        "elements": {
+          "surface": [
+            "Weather station",
+            "Refuse collection depot",
+            "Data center",
+            "Farm",
+            "Government building",
+            "Sea vessels"
+          ],
+          "cloud": [
+            "Signature Private Cloud",
+            "AI Cloud",
+            "Sovereign Public Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Smart Pollution Monitoring ",
+            "Smart waste management",
+            "Environmental Sciences",
+            "Climate Tech Hub",
+            "OceanX"
+          ],
+          "space": [
+            "HAPS"
+          ]
+        }
+      },
+      {
+        "title": "Public safety",
+        "description": "Harnessing AI, big data analytics, and IoT, our Public Safety solutions enhance urban security through technologies like smart fire detection, smart policing, city-wide monitoring, and smart emergency response systems. By enabling real-time insights and predictive analytics, these solutions ensure faster response times, improve resource allocation, and enhance overall public safety. From preventing incidents to coordinating effective emergency actions, our comprehensive approach helps cities become safer, more resilient environments.",
+        "industry": "Smart City",
+        "elements": {
+          "surface": [
+            "Data center",
+            "Police station",
+            "Municipality",
+            "Fire station"
+          ],
+          "cloud": [
+            "Signature Private Cloud",
+            "AI Cloud",
+            "Sovereign Public Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Lifesaver",
+            "Police AI Platform",
+            "Smart Fire",
+            "Smart City Safety Monitoring"
+          ],
+          "space": []
+        }
+      },
+      {
+        "title": "Disaster management ",
+        "description": "Harnessing AI, big data analytics, geospatial intelligence, and IoT, our Disaster Management solutions empower nations or cities to prevent, manage, and respond effectively to natural disasters like flooding, earthquakes, and wildfires. By providing real-time monitoring, early-warning systems, and predictive insights, we enable faster decision-making and resource deployment. From simulating disaster scenarios to coordinating emergency responses, our solutions help minimize damage, protect communities, and enhance resilience in the face of crises.",
+        "industry": "Smart City",
+        "elements": {
+          "surface": [
+            "Data center",
+            "Fire station",
+            "Police station",
+            "Government building",
+            "Weather station"
+          ],
+          "cloud": [
+            "Signature Private Cloud",
+            "AI Cloud",
+            "Sovereign Public Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "Disaster Prediction and Management Platform (AiD)",
+            "Rabdan Simulation Digital Twin",
+            "Flooding Analysis Digital Twin Platform"
+          ],
+          "space": [
+            "Foresight-1"
+          ]
+        }
+      },
+      {
+        "title": "Enterprise",
+        "description": "xxx",
+        "industry": "Smart City",
+        "elements": {
+          "surface": [
+            "Data center",
+            "Office blocks",
+            "Financial institution",
+            "Government building"
+          ],
+          "cloud": [
+            "Signature Private Cloud",
+            "AI Cloud",
+            "Sovereign Public Cloud",
+            "Cybersecurity"
+          ],
+          "apps": [
+            "CorporateAI",
+            "Procurement Navigator ",
+            "Board Navigator",
+            "Capital Projects Development system  (CPDS)",
+            "Smart Workforce management"
+          ],
+          "space": []
+        }
+      }
+    ]
+  },
+  {
+    "use_case": "Space & Geospatial",
+    "solutions": [
+      {
+        "title": "Space & Geospatial",
+        "description": "xxx",
+        "industry": "Space & Geospatial",
+        "elements": {
+          "surface": [
+            "Government building",
+            "Data center",
+            "Airport",
+            "Weather station"
+          ],
+          "cloud": [
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Sovereign Public Cloud"
+          ],
+          "apps": [
+            "SAR satellite constellation",
+            "Geospatial data integration platform (GIQ)",
+            "Skyphone"
+          ],
+          "space": [
+            "HAPS",
+            "AL YAH 1",
+            "THURAYA ",
+            "Foresight-1"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "use_case": "Sport & Media",
+    "solutions": [
+      {
+        "title": "Sport & Media",
+        "description": "xx",
+        "industry": "Sport & Media",
+        "elements": {
+          "surface": [
+            "Data center",
+            "Sport stadium (football)",
+            "F1 Race Track ",
+            "Arena (Space 42)"
+          ],
+          "cloud": [
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Sovereign Public Cloud"
+          ],
+          "apps": [
+            "Media AI Platform",
+            "Golden Globe Race AI",
+            "Swim 62",
+            "Row400",
+            "McIntyre Ocean Globe"
+          ],
+          "space": []
+        }
+      }
+    ]
+  },
+  {
+    "use_case": "Supply Chain",
+    "solutions": [
+      {
+        "title": "Supply Chain",
+        "description": "Harnessing AI, big data analytics, and a network of IoT devices, our Supply Chain solutions transform logistics and inventory management through smart platforms for supply chain planning and disruption prevention. By utilizing real-time data from satellites, sensors, and advanced analytics, these solutions provide enhanced visibility and responsiveness throughout the supply chain. From forecasting demand to mitigating potential disruptions, our comprehensive approach ensures optimized operations, reduced costs, and improved resilience, enabling businesses to navigate the complexities of today’s global market effectively.",
+        "industry": "Supply Chain",
+        "elements": {
+          "surface": [
+            "Autonomous vehicles",
+            "Data center",
+            "Warehouse",
+            "Edge computing & Sensors",
+            "Factories and Plants"
+          ],
+          "cloud": [
+            "AI Cloud",
+            "Signature Private Cloud",
+            "Sovereign Public Cloud"
+          ],
+          "apps": [
+            "Container Tracking",
+            "SatTrack for Land",
+            "Supply Chain Digital Twin",
+            "Smart Supply Cold Chain Monitoring"
+          ],
+          "space": [
+            "Foresight-1"
+          ]
+        }
+      }
+    ]
+  }
+]
