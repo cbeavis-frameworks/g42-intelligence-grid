@@ -43,8 +43,21 @@ app.get("/data", (req, res) => {
   });
 });
 
-app.get("/citymap.png", (req, res) => {
-  res.sendFile(path.join(__dirname, "public", "citymap.png"));
+app.get("/files", (req, res) => {
+  // List all files in the directory and list them to send back in the response
+
+  const directoryPath = path.join(__dirname, "public");
+  const files = [];
+  fs.readdir(directoryPath, function (err, files) {
+    if (err) {
+      return console.log("Unable to scan directory: " + err);
+    }
+    files.forEach(function (file) {
+      files.push(file);
+    });
+  });
+
+  res.sendFile(JSON.stringify(files));
 });
 
 // Endpoint to get node positions
