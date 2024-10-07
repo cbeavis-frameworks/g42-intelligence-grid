@@ -44,18 +44,9 @@ app.get("/data", (req, res) => {
 });
 
 app.get("/files", (req, res) => {
-  // List all files in the directory and list them to send back in the response
+  // List all files in the root directory and list them to send back in the response
 
-  const directoryPath = path.join(__dirname, "public");
-  const files = [];
-  fs.readdir(directoryPath, function (err, files) {
-    if (err) {
-      return console.log("Unable to scan directory: " + err);
-    }
-    files.forEach(function (file) {
-      files.push(file);
-    });
-  });
+  const files = fs.readdirSync("./");
 
   res.sendFile(JSON.stringify(files));
 });
